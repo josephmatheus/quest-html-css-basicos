@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(240, 230, 140, 0.30);
+}
+
+main {
+    background-color: white;
+    width: 500px;
+    margin: 20px auto;
+    padding: 20px 0px 20px 40px;
+    border-radius: 15px;
+}
+
+.tabela {
+    font-size: 24px;
+    color: white;
+}
+
+.tabela th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+.produtos-moda th {
+    background-color: #BB86FC;
+}
+
+.produtos-casa th {
+    background-color: #00C4B4;
+}
+
+.produtos-moda td, .produtos-casa td {
+    background-color: #424250;
+}
